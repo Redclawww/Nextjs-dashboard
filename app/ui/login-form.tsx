@@ -59,6 +59,11 @@ export default function LoginForm() {
             </div>
           </div>
         </div>
+        <div className='pt-3'>
+          <p>Dummy Login</p>
+          <p>user@nextmail.com</p>
+          <p>123456</p>
+        </div>
         <LoginButton />
         <div
           className="flex h-8 items-end space-x-1"
